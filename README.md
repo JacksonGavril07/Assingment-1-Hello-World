@@ -1,6 +1,6 @@
 # Hey there! Welcome to your first assignment! 
 
-## If you have not installed all the nessecary items such as VS Code, clang...etc Please insatll them using the guide from Assignment 0 in Google Classroom
+## If you have not installed all the nessecary items such as VS Code, clang...etc Please insstall them using the guide from Assignment 0 in Google Classroom
 
 ## If you did not recieve a google classroom invite or you are experiencing technical difficulty, you can email me at gavr410575@evangel.edu
 
